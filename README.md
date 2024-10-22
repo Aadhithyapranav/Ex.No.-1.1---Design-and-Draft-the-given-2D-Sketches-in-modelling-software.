@@ -44,5 +44,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ## OUTPUT
 
 
+[EX1.1_AADHITHYA PRANAV.pdf](https://github.com/user-attachments/files/17472712/EX1.1_AADHITHYA.PRANAV.pdf)
+
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
